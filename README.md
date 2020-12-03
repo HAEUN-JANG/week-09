@@ -2,13 +2,13 @@
 ### 1. 주소 API활용하여 페이지 만들기
 > 이번 주차에는 promise와 async/await 를 통해서 비동기처리 하는 방법을 배웠습니다. 또한 이 두가지도 내부적으로 결국에는 callback을 사용한다는 사살도 알게 되었습니다.  
 이번 과제는 수업시간에 했던 예제인 주소 API를 활용하여 페이지를 만드는 실습입니다. CSS로 시각적으로 깔끔한 효과를 주었고, 전에 배웠던 애니메이션 효과나 transition 효과를 사용하여 복습하는 시간도 가졌습니다. 또한 이번수업에서 배웠던 promise 와 async 중에서 async의 코드가 깔끔하고 이해하기 쉬워서 async를 사용하여 주소 API를 활용해보았습니다.  
-(css, img, address2.html, firstpage.html 사용)
+(css, img, address2.html, index.html 사용)
 
 ### 2. 과제 세부 내용
 
  #### (1) 첫번째 페이지에서 두번째 페이지로 이동하기
 
-        -firstpage.html에 집의 로고이미지와 주소를 검색하는 페이지로 넘어갈 수 있는 버튼을 넣었음
+        -index.html(첫번째 페이지)에 집의 로고이미지와 주소를 검색하는 페이지로 넘어갈 수 있는 버튼을 넣었음
 
         -사용 클래스 : button, button:hover, margin, image
 
